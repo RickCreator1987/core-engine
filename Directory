@@ -1,0 +1,17 @@
+- src/
+  - core/
+  - features/ (Primary and Secondary Features)
+- tests/
+  - unit/
+  - integration/
+  - environments/
+    - models/
+    - tools/
+- prototypes/
+- debugging/
+  - logs/
+  - tools/
+- beta-release/
+- feedback/
+- release/
+  - version-2/
